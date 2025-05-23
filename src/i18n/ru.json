@@ -1,0 +1,19 @@
+{
+  "welcome": "Добро пожаловать в MysticPath!",
+  "choose_spread": "Выберите расклад",
+  "profile": "Профиль",
+  "balance": "Баланс",
+  "history": "История",
+  "shop": "Магазин",
+  "language": "Язык",
+  "spread_generic": "Общий расклад",
+  "spread_love": "Любовный расклад",
+  "spread_daily": "Карта дня",
+  "buy_stars": "Купить расклад за Stars",
+  "free_spread": "Бесплатный расклад",
+  "logout": "Выйти",
+  "admin_panel": "Админка",
+  "not_enough_balance": "Недостаточно Stars. Пополните баланс!"
+  "history_empty": "Спредов пока нет.",
+  "interpretation": "Толкование"
+}

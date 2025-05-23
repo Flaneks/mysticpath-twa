@@ -1,0 +1,17 @@
+{
+  "welcome": "Willkommen bei MysticPath!",
+  "choose_spread": "Wähle ein Kartenlegen",
+  "profile": "Profil",
+  "balance": "Kontostand",
+  "history": "Verlauf",
+  "shop": "Shop",
+  "language": "Sprache",
+  "spread_generic": "Allgemeines Kartenlegen",
+  "spread_love": "Liebes-Kartenlegen",
+  "spread_daily": "Tageskarte",
+  "buy_stars": "Ziehe Karten mit Stars",
+  "free_spread": "Kostenlose Ziehung",
+  "logout": "Abmelden",
+  "admin_panel": "Adminbereich",
+  "not_enough_balance": "Nicht genug Stars. Bitte lade dein Konto auf!"
+}

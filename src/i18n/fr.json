@@ -1,0 +1,17 @@
+{
+  "welcome": "Bienvenue sur MysticPath!",
+  "choose_spread": "Choisissez un tirage",
+  "profile": "Profil",
+  "balance": "Solde",
+  "history": "Historique",
+  "shop": "Boutique",
+  "language": "Langue",
+  "spread_generic": "Tirage général",
+  "spread_love": "Tirage amoureux",
+  "spread_daily": "Carte du jour",
+  "buy_stars": "Acheter un tirage avec des Stars",
+  "free_spread": "Tirage gratuit",
+  "logout": "Déconnexion",
+  "admin_panel": "Panneau d'administration",
+  "not_enough_balance": "Pas assez de Stars. Merci de recharger votre solde!"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "mysticpath-twa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^12.3.1",
+    "i18next": "^23.10.1",
+    "react-router-dom": "^6.22.1"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "welcome": "欢迎来到 MysticPath！",
+  "choose_spread": "选择牌阵",
+  "profile": "个人资料",
+  "balance": "余额",
+  "history": "历史记录",
+  "shop": "商店",
+  "language": "语言",
+  "spread_generic": "综合牌阵",
+  "spread_love": "爱情牌阵",
+  "spread_daily": "每日一牌",
+  "buy_stars": "用Stars购买牌阵",
+  "free_spread": "免费牌阵",
+  "logout": "退出登录",
+  "admin_panel": "管理员面板",
+  "not_enough_balance": "Stars不足。请充值！"
+}

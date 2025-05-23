@@ -1,0 +1,19 @@
+{
+  "welcome": "Welcome to MysticPath!",
+  "choose_spread": "Choose a spread",
+  "profile": "Profile",
+  "balance": "Balance",
+  "history": "History",
+  "shop": "Shop",
+  "language": "Language",
+  "spread_generic": "General Spread",
+  "spread_love": "Love Spread",
+  "spread_daily": "Card of the Day",
+  "buy_stars": "Buy spread for Stars",
+  "free_spread": "Free Spread",
+  "logout": "Logout",
+  "admin_panel": "Admin panel",
+  "not_enough_balance": "Not enough Stars. Please top up your balance!",
+  "history_empty": "No spreads yet.",
+  "interpretation": "Interpretation"
+}
