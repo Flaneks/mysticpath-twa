@@ -13,5 +13,6 @@
   "free_spread": "免费牌阵",
   "logout": "退出登录",
   "admin_panel": "管理员面板",
-  "not_enough_balance": "Stars不足。请充值！"
+  "not_enough_balance": "Stars不足。请充值！",
+  "loading": "生成中..."
 }

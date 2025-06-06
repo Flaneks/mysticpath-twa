@@ -15,5 +15,6 @@
   "admin_panel": "Admin panel",
   "not_enough_balance": "Not enough Stars. Please top up your balance!",
   "history_empty": "No spreads yet.",
-  "interpretation": "Interpretation"
+  "interpretation": "Interpretation",
+  "loading": "Generating..."
 }

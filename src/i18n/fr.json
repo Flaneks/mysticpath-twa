@@ -13,5 +13,6 @@
   "free_spread": "Tirage gratuit",
   "logout": "Déconnexion",
   "admin_panel": "Panneau d'administration",
-  "not_enough_balance": "Pas assez de Stars. Merci de recharger votre solde!"
+  "not_enough_balance": "Pas assez de Stars. Merci de recharger votre solde!",
+  "loading": "Génération..."
 }
