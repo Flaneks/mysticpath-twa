@@ -15,5 +15,6 @@
   "admin_panel": "Админка",
   "not_enough_balance": "Недостаточно Stars. Пополните баланс!",
   "history_empty": "Спредов пока нет.",
-  "interpretation": "Толкование"
+  "interpretation": "Толкование",
+  "loading": "Генерация..."
 }

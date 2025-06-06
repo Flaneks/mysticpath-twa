@@ -47,7 +47,7 @@ export default function DrawSpread() {
           {t("spread_daily")}
         </button>
       </div>
-      {loading && <div className="text-purple-200">{t("loading") || "Генерация..."}</div>}
+      {loading && <div className="text-purple-200">{t("loading")}</div>}
       {error && <div className="text-red-400">{error}</div>}
       {result && (
         <div className="w-full max-w-lg bg-black/40 rounded-2xl p-6 text-white shadow-lg mt-4">

@@ -13,5 +13,6 @@
   "free_spread": "Tirada gratis",
   "logout": "Cerrar sesión",
   "admin_panel": "Panel de administración",
-  "not_enough_balance": "No tienes suficientes Stars. ¡Recarga tu saldo!"
+  "not_enough_balance": "No tienes suficientes Stars. ¡Recarga tu saldo!",
+  "loading": "Generando..."
 }

@@ -13,5 +13,6 @@
   "free_spread": "Kostenlose Ziehung",
   "logout": "Abmelden",
   "admin_panel": "Adminbereich",
-  "not_enough_balance": "Nicht genug Stars. Bitte lade dein Konto auf!"
+  "not_enough_balance": "Nicht genug Stars. Bitte lade dein Konto auf!",
+  "loading": "Generierung..."
 }
